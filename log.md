@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 1: September 1, 2021
+
+**Today**
+
+Reproduction of the Netflix tile example in CSS via the Wealthfront blog.
+
+**Thoughts**
+
+Useful to get back into the swing of vanilla CSS/Javascript. Would like to refactor in React and make dynamic (ie add hover function to all tiles and make the JS code more flexible).
+
+**Link to work**
+https://codepen.io/chris_jb/pen/ExXKrXE
+
+<!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -27,4 +41,4 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
