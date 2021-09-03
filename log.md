@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 3: September 3, 2021
+
+**Today**
+
+Continuing to slowly get through the FEM Gatsby course and play along with a reverse-engineer of the juliacodes site.
+
+**Thoughts**
+
+It's coming along slower than my usual, but to be expected. Also good practice regardless and nice to get the Netlify site up and working.
+
+**Live Link**
+https://chriscodes.netlify.app/
+
 ### Day 2: September 2, 2021
 
 **Today**
