@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 2: September 2, 2021
+
+**Today**
+
+Setting up a project that might take a couple of days. Time spent mainly reviewing the Gatsby intro course on FEM, starting up skeleton app. Project intention is to clone juliacodes.com, then iterate thereafter.
+
+**Thoughts**
+
+Gatsby seems really useful and fast -- I've tried deploying through Digital Ocean and setting up nginx etc, and the JAMstack seems like it will be waaay easier. Need to do more code though. Also excited to tighten my CSS, which is a little boring, but important.
+
+**Link**
+https://github.com/christopherjbanks/chriscodes
+
 ### Day 1: September 1, 2021
 
 **Today**
