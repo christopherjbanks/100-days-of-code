@@ -1,5 +1,40 @@
 # 100 Days Of Code - Log
 
+### Day 6: September 6, 2021
+
+**Today**
+
+Took a day off the juliacodes project to continue picking up some D3 via the Shirley Wu course, though, frankly am wondering about spreading myself too thin between this, basic React and my attempts to learn three.js too. Think it's justified through building the svg animation and applied greensock later though.
+
+**Live Link**
+https://observablehq.com/@sxywu/3-create-a-petal-for-each-movie
+
+### Day 5: September 5, 2021
+
+**Today**
+
+Continuing to slowly get through the FEM Gatsby course and play along with a reverse-engineer of the juliacodes site.
+
+**Thoughts**
+
+I'm only spending an hour or so a day on this, so again progress feels frustratingly slow. Outlined the skills section, though there's still something buggy happening on the image load, which doesn't appear smooth on the first load. Guessing this is just due to image size and it seems like Gatsby has useful functionality for dynamically adjusting the image, so that's next on the list.
+
+**Live Link**
+https://chriscodes.netlify.app/
+
+### Day 4: September 4, 2021
+
+**Today**
+
+Continuing to slowly get through the FEM Gatsby course and play along with a reverse-engineer of the juliacodes site.
+
+**Thoughts**
+
+Some interesting things learned, like using 'forwards' on a CSS animation means that you can't go on to later change that same value on the element.
+
+**Live Link**
+https://chriscodes.netlify.app/
+
 ### Day 3: September 3, 2021
 
 **Today**
