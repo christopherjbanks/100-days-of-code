@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 7: September 7, 2021
+
+**Today**
+
+More D3 with Shirley Wu.
+
 ### Day 6: September 6, 2021
 
 **Today**
